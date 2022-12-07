@@ -1,0 +1,1 @@
+Toto je len taky testovaci subor v ramci GIT workshopu v Zurichu.
